@@ -5,7 +5,8 @@
 [![Facebook]( https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white )](https://www.facebook.com/profile.php?id=100072651907205)
 [![Instagram]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/viitorleitee/)
 
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorLt&show_icons=true&theme=tokyonight)          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLt&layout=compact)](https://github.com/VitorLt/github-readme-stats)
+### Bem Vindo ao meu GitHub
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorLt&theme=blue-green)          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLt&layout=compact)](https://github.com/VitorLt/github-readme-stats)
 
 ### Tecnologias que uso no meu dia
 
