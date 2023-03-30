@@ -4,7 +4,7 @@
   <tr>
     <td><img  width="170" height="150" src='https://user-images.githubusercontent.com/121319459/226215339-ea8a2f78-324a-451f-97d2-966d8604ae6b.png'/></td>
     <td>
-   - 🎓 Análise de Desenvolvimento de Sistemas.</br>
+   - 🎓 Análise de Des. de Sistemas.</br>
    - 📍 Morando em Manaus-AM (Brasil).</br>  
    </td>
 
